@@ -1,6 +1,6 @@
 .nav{
     z-index: 1000;
-    background-color: white;
+    background-color: royalblue;
     padding: 1vmax;
     display: flex;
     flex-direction: row;
@@ -32,7 +32,7 @@
 }
 
 .navlinks{
-    color: rgb(59, 59, 59);
+    color: cyan;
     text-decoration: none;
     margin: 1vmax 1.2vmax;
     font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
@@ -42,7 +42,7 @@
 }
 
 .navlinks:hover{
-    color: orangered;
+    color: black;
     text-decoration: none;
 }
 
